@@ -1,0 +1,25 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api express js dan mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roysulfanani/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "fannan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roysulfanani/apprestapi/issues"
+  },
+  "homepage": "https://github.com/roysulfanani/apprestapi#readme"
+}
